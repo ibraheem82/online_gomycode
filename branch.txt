@@ -1,0 +1,1 @@
+A Git branch is not a separate folder on your computer. Your project stays in the exact same folder path on your drive, but Git act like a switcher between parallel timelines
