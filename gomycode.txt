@@ -1,1 +1,18 @@
 copy a project from Github (or elsewhere) to your computer.
+
+feat - A New Feature
+` git commit -m "feat: add dark mode toggle to settings"
+
+
+fix  - A Bug Fix
+` git commit -m "fix: prevent crash when cart is empty"
+
+
+
+docs - Documentation only
+`git commit -m "docs: add setup instructions to README"
+
+
+refactor - Restructure Without Changing Behavior
+
+git commit -m "refactor: extract validation logic into helper function"
