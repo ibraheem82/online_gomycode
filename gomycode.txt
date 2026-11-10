@@ -1,0 +1,1 @@
+copy a project from Github (or elsewhere) to your computer.
